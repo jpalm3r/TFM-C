@@ -19,5 +19,7 @@ All sub-scripts use the same functions.c script for the functions and needs to b
 # Folder arrangement
 File program.png contains the arrangement for the correct running of the program
 
+![Alt text](/program.png?raw=true "Optional Title")
+
 
 
