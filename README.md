@@ -16,3 +16,8 @@ Then depending on the feature that the user wants to study it is necessary to re
 
 All sub-scripts use the same functions.c script for the functions and needs to be accordingly compiled.
 
+# Folder arrangement
+File program.png contains the arrangement for the correct running of the program
+
+
+
