@@ -17,9 +17,9 @@ Then depending on the feature that the user wants to study it is necessary to re
 All sub-scripts use the same functions.c script for the functions and needs to be accordingly compiled.
 
 # Folder arrangement
-File program.png contains the arrangement for the correct running of the program
+For the program to run properly it is needed to arrange the files in the following folder distribution:
 
-![Alt text](/program.png?raw=true "Optional Title")
+![Alt text](/program.png?raw=true "Folder arrangement")
 
 
 
